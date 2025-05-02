@@ -1,5 +1,5 @@
 USTH Deep Learning 2025
 ==========================
 
-* Your name here
-* YOUR ID HERE IF YOU ARE DAT
+* Name: Do Thanh Dat
+* YOUR ID HERE IF YOU ARE DAT - 2440059
